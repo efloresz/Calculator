@@ -1,6 +1,13 @@
-# Calculator
+# Calculator (in progress)
 ## Purpose: 
-![Screen Shot 2023-05-14 at 7 22 08 PM](https://github.com/efloresz/Calculator/assets/110843762/a11144d5-319b-477a-99ba-ea850f464823)
+
+<p>
+  <img src="https://github.com/efloresz/Calculator/assets/110843762/a11144d5-319b-477a-99ba-ea850f464823" alt="Screenshot of calculator website">
+</p>
+<p>
+  <a href="https://calculator.emilyflores6.repl.co/">https://calculator.emilyflores6.repl.co/</a>
+</p>
+
 
 ## What I Learned:
 *
